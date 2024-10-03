@@ -86,7 +86,7 @@
           "thumbs": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
           "titles": "DPK TV"
         },
-        {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
+        {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "source": [
