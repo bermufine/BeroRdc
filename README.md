@@ -50,6 +50,16 @@
           "titles": "CBC TV"
         },
         {
+          "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
+          "source": [
+            "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "thumbs": "https://od.lk/s/NzNfODIzNTUxNDhf/bossbrother.png
+",
+          "titles": "BOSS BROTHER"
+        },
+        {
           "descriptions": "Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "source": [
             "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"
@@ -67,6 +77,16 @@
           "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "titles": "KIN DIRECT TV"
         },
+         {
+          "descriptions": "DPK TV est une chaine de television....",
+          "source": [
+            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
+          "titles": "DPK TV"
+        },
+        {"description":"Espoir TV est une chaine de télévision....","sources":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","title":"ESPOIR TV"},
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "source": [
@@ -75,25 +95,6 @@
           "subtitles": "All Channel",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1 / LIEN 2"
-        },
-        {
-          "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
-          "source": [
-            "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "thumbs": "https://od.lk/s/NzNfODIzNTUxNDhf/bossbrother.png
-",
-          "titles": "BOSS BROTHER"
-        },
-        {
-          "descriptions": "DPK TV est une chaine de television....",
-          "source": [
-            "https://helga.iptv2022.com/sh/DPK_Tv/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
-          "titles": "DPK TV"
         },
         {
           "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
