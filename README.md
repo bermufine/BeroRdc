@@ -22,14 +22,15 @@
           "thumbs": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
           "titles": "CITE DE DAVID"
         },
-         {
-          "descriptions": "Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...",
+        {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
+        {
+          "descriptions": "RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :",
           "source": [
-            "https://helga.iptv2022.com/Evi_Tv/index.m3u8"
+            "https://stream.berosat.live:19360/cbco-tv/cbco-tv.m3u8"
           ],
-          "subtitles": "All Channel",
-          "thumbs": "https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png",
-          "titles": "EVI TV"
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg",
+          "titles": "RTV CBCO"
         },
         {
           "descriptions": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
@@ -40,6 +41,8 @@
           "thumbs": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
           "titles": "METANOIA TV"
         },
+        { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
+        { "descriptions": "Hope Channel TV est une chaîne généraliste émettant à Kinshasa qui diffuse que des predications, des informations, musiques et autres....", "source": [ "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjg3NzA3MDdf/hope-channel-tv-cd.png", "titles": "HOPE CHANNEL TV" },
         {
           "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "source": [
@@ -126,7 +129,7 @@
         {
           "descriptions": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
           "source": [
-            "https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"
+            "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
           ],
           "subtitles": "All Channel",
           "thumbs": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
@@ -505,15 +508,6 @@
           "subtitles": "By Channel",
           "thumbs": "https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg",
           "titles": "EMCI TV"
-        },
-         {
-          "descriptions": "RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :",
-          "source": [
-            "https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg",
-          "titles": "RTV CBCO"
         },
         {
           "descriptions": "Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements",
