@@ -13,6 +13,15 @@
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
         },
+         {
+          "descriptions": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "source": [
+            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
+          "titles": "KIN DIRECT TV"
+        },
         {
           "descriptions": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
           "source": [
@@ -26,7 +35,7 @@
         {
           "descriptions": "RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :",
           "source": [
-            "https://stream.berosat.live:19360/cbco-tv/cbco-tv.m3u8"
+            "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"
           ],
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg",
@@ -71,15 +80,6 @@
           "thumbs": "https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg",
           "titles": "BERO TV"
         },
-        {
-          "descriptions": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-          "source": [
-            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
-          "titles": "KIN DIRECT TV"
-        },
          {
           "descriptions": "DPK TV est une chaine de television....",
           "source": [
@@ -118,15 +118,6 @@
           "titles": "RADIO TÉLÉ SILO"
         },
         {
-          "descriptions": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci",
-          "source": [
-            "https://helga.iptv2022.com/sh/Ev-TELE/index.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "thumbs": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
-          "titles": "EV TELE"
-        },
-        {
           "descriptions": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
           "source": [
             "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
@@ -152,33 +143,6 @@
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
           "titles": "NOVELAS 3"
-        },
-        {
-          "descriptions": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
-          "source": [
-            "http://hopetvafrica.com:8084/hls/stream.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "thumbs": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
-          "titles": "HOPE TV EXTRA"
-        },
-        {
-          "descriptions": "Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
-          "source": [
-            "https://stream.hopetvafrica.com/hls/stream.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "thumbs": "https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg",
-          "titles": "HOPE TV AFRICA"
-        },
-        {
-          "descriptions": "Nyota TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
-          "source": [
-            "https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "thumbs": "https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg",
-          "titles": "BOSTRA TV"
         },
         {
           "descriptions": "Be Blessed Média (Beb FM Et Beb TV) Est Un Projet Porté Par La Société Be Blessed Group, Entreprise De Droit Congolais Spécialisée Dans L’évènementiel, La Production Et La Diffusion Des Programmes De Radio Et Télévision, La Production Phonographique ; Qui Elle-Même À La Base Est Une Initiative Des Férus De La Culture Et Des Journalistes D’expérience Ayant Fait Leurs Preuves Dans La Mise En Œuvre Et La Gestion Des Médias Tant Publics Que Privés Au Congo. L’entreprise Est Implantée À Pointe-Noire, Dans L’arrondissement N°1 E.P.Lumumba, Au Numéro 138 De L’avenue Costaude Immeuble SCI ONANGA , Grand Marché Pointe-Noire. Notre ambition : Beb fm, profondément enracinée dans la culture congolaise et africaine, se veut le miroir des populations du continent. Engagée et citoyenne, elle a pour vocation de contribuer à l’éducation des populations, d’impacter positivement la société congolaise et africaine, et de contribuer à la transformation des mentalités. Beb fm s'impose sur le marché comme « la reine du contenu local ». Notre identité : Une chaîne de Radio congolaise décomplexée, originale et positive. Beb fm propose une nouvelle expérience audiovisuelle aux téléspectateurs africains :la télévision sans filtre Une chaîne qui donne la possibilité à son public de parler librement, sans censure et sans tabou. Beb fm entend mettre, au cœur de sa démarche, des sujets qui concernent les populations, qui leur tiennent à cœur, et les traiter sans compromis ni compromission Le positionnement de la chaîne s’articule autour des mots-clés suivants : vraie, positive, engagée, moderne, connectée, drôle, populaire, originale, interactive.",
@@ -215,6 +179,15 @@
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg",
           "titles": "ACTU NGOLO TV HD"
+        },
+         {
+          "descriptions": "Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci",
+          "source": [
+            "https://helga.iptv2022.com/sh/Ev-TELE/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "thumbs": "https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg",
+          "titles": "EV TELE"
         },
         {
           "descriptions": "NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.",
@@ -571,4 +544,22 @@
           "subtitles": "All Channels",
           "thumbs": "https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png",
           "titles": "TRACE GOSPEL"
+        },
+          {
+          "descriptions": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
+          "source": [
+            "http://hopetvafrica.com:8084/hls/stream.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "thumbs": "https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg",
+          "titles": "HOPE TV EXTRA"
+        },
+        {
+          "descriptions": "Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
+          "source": [
+            "https://stream.hopetvafrica.com/hls/stream.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "thumbs": "https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg",
+          "titles": "HOPE TV AFRICA"
         },
