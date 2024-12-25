@@ -42,6 +42,7 @@
           "thumbs": "https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg",
           "titles": "RTV CBCO"
         },
+        { "descriptions": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8" ], "subtitles": "All Channel", "thumbs": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg", "titles": "CODIR TV" }, 
         {
           "descriptions": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
           "source": [
