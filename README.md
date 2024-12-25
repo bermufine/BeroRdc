@@ -4,6 +4,15 @@
     {
       "names": "Movie",
       "videos": [
+         {
+          "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "source": [
+            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
+          "titles": "CBC TV"
+        },
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "source": [
@@ -13,6 +22,7 @@
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
         },
+        { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
          {
           "descriptions": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "source": [
@@ -22,16 +32,7 @@
           "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "titles": "KIN DIRECT TV"
         },
-        {
-          "descriptions": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
-          "source": [
-            "https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
-          "titles": "CITE DE DAVID"
-        },
-        {"description":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","sources":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitle":"All Channels","direct":"En Direct","thumb":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","title":"EVI TV"},
+        {"descriptions":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitles":"All Channels","thumbs":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","titles":"EVI TV"},
         {
           "descriptions": "RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :",
           "source": [
@@ -53,15 +54,6 @@
         { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
         { "descriptions": "Hope Channel TV est une chaîne généraliste émettant à Kinshasa qui diffuse que des predications, des informations, musiques et autres....", "source": [ "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjg3NzA3MDdf/hope-channel-tv-cd.png", "titles": "HOPE CHANNEL TV" },
         {
-          "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-          "source": [
-            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
-          "titles": "CBC TV"
-        },
-        {
           "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
           "source": [
             "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
@@ -71,6 +63,16 @@
 ",
           "titles": "BOSS BROTHER"
         },
+         {
+          "descriptions": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+          "source": [
+            "https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
+          "titles": "RL PRO TV"
+        },
+         { "descriptions": "Vengeance Télévision est la Chaîne Mystique.", "source": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "titles": "VENGEANCE TV" },
         {
           "descriptions": "Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "source": [
@@ -80,16 +82,11 @@
           "thumbs": "https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg",
           "titles": "BERO TV"
         },
-         {
-          "descriptions": "DPK TV est une chaine de television....",
-          "source": [
-            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
-          "titles": "DPK TV"
-        },
+        { "descriptions": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "source": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "titles": "GOSPEL CHANNEL" }, 
+        { "descriptions": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg", "title": "S-MEDIAS TV 3" },  
+        { "descriptions": "Mongala Télévision est la première chaine thematique en République du Congo.", "source": [ "https://stream.berosat.live:19360/mongala-tv/mongala-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzYzMDA1ODBf/mongalatv.jpg", "titles": "MONGALA TV" }, 
         {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
+         { "descriptions": "Ndule Television est une chaine musicale avec la musique rumba hipop, zouk, rap, jazz et tant d'autres", "source": [ "https://stream.berosat.live:19360/nduletv/nduletv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzY0MzYxMzhf/nduletv.jpg", "titles": "NDULE TV" }, 
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "source": [
@@ -97,7 +94,7 @@
           ],
           "subtitles": "All Channel",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
-          "titles": "RTNC 1 / LIEN 2"
+          "titles": "RTNC 1 / B"
         },
         {
           "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
@@ -108,15 +105,8 @@
           "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "titles": "CCPV TV"
         },
-        {
-          "descriptions": "Radio Télé Silo est une chaîne chrétienne",
-          "source": [
-            "https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg",
-          "titles": "RADIO TÉLÉ SILO"
-        },
+        { "descriptions": "Kk Tv, est une chaîne thematique de divertissements", "source": [ "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg", "titles": "KK TV" },
+        { "descriptions": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitles": "All Channel", "thumbs": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "titles": "TOP NOVELAS" }, 
         {
           "descriptions": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
           "source": [
@@ -135,6 +125,15 @@
           "thumbs": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
           "titles": "NOVELAS"
         },
+         {
+          "descriptions": "Radio Télé Silo est une chaîne chrétienne",
+          "source": [
+            "https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg",
+          "titles": "RADIO TÉLÉ SILO"
+        },
         {
           "descriptions": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "source": [
@@ -152,15 +151,6 @@
           "subtitles": "By Channel",
           "thumbs": "https://od.lk/s/NzNfODEyMTA1NTNf/bbeTV.jpg",
           "titles": "BEB TV"
-        },
-        {
-          "descriptions": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-          "source": [
-            "https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "thumbs": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
-          "titles": "RL PRO TV"
         },
         {
           "descriptions": "Nyota TV est une chaîne privée émettant rn République Démocratique du Congo",
@@ -395,12 +385,31 @@
           "subtitles": "All Channel",
           "thumbs": "https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
           "titles": "NOVELAS 2"
+        },
+          {
+          "descriptions": "Radio Télé Cité de David, la première chaine chrétienne en République du Congo. Nous Sommes sur aussi TNT. contactez-nous : citededavid242@gmail.com",
+          "source": [
+            "https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+          "titles": "CITE DE DAVID"
         }
       ]
     }
   ]
 }
 
+
+ {
+          "descriptions": "DPK TV est une chaine de television....",
+          "source": [
+            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "thumbs": "https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg",
+          "titles": "DPK TV"
+        },
 {
           "descriptions": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
           "source": [
@@ -545,6 +554,7 @@
           "thumbs": "https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png",
           "titles": "TRACE GOSPEL"
         },
+        
           {
           "descriptions": "Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542",
           "source": [
