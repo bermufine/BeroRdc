@@ -51,7 +51,7 @@
           "thumbs": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
           "titles": "METANOIA TV"
         },
-        { "description": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "sources": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitle": "All Channels", "thumb": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "title": "BALADE MONDE TV" },
+        { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
         { "descriptions": "Hope Channel TV est une chaîne généraliste émettant à Kinshasa qui diffuse que des predications, des informations, musiques et autres....", "source": [ "https://glb.bozztv.com/glb/ssh101/hopetvg/playlist.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjg3NzA3MDdf/hope-channel-tv-cd.png", "titles": "HOPE CHANNEL TV" },
         {
           "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
