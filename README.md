@@ -74,6 +74,7 @@
           "titles": "RL PRO TV"
         },
          { "descriptions": "Vengeance Télévision est la Chaîne Mystique.", "source": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "titles": "VENGEANCE TV" },
+         {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
          { "descriptions": "CODIR tv est une chaine de télé Généraliste qui émette à Matadi avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/codir-tv/codir-tv.m3u8" ], "subtitles": "All Channel", "thumbs": "https://od.lk/s/NDZfNzQ2NTgzMDNf/Codir.jpg", "titles": "CODIR TV" }, 
         {
           "descriptions": "Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
