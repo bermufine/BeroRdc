@@ -22,6 +22,7 @@
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
         },
+        { "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.", "source": [ "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg", "titles": "RTNC 3 HD" },
         { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
          {
           "descriptions": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
@@ -149,6 +150,11 @@
           "thumbs": "https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg",
           "titles": "MIKUBA TV"
         },
+        { "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/kin24/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" },
+
+{ "descriptions": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/RTGA/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg", "titles": "RTGA" },
+
+{ "descriptions": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/RTVS1/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png", "titles": "RTVS 1" },
         {
           "descriptions": "MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....",
           "source": [
