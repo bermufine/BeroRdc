@@ -112,10 +112,14 @@
 
 { "descriptions": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.", "source": [ "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg", "titles": "LIGHT ECO TV" }, 
 
+{ "descriptions": "Rhema TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/rhema-tv/rhema-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEzNjMzMjlf/rhema.jpg", "titles": "RHEMA TV" },
+
 {
 "descriptions": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.", "source": [ "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg", "titles": "MGS TV" }, 
 
 { "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/kin24/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
+
+{ "descriptions": "Foranvi TV est une chaîne generaliste et de divertissements.", "source": [ "https://stream.berosat.live:19360/foranvi-tv/foranvi-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEzNjM0Mjlf/foranvi.png", "titles": "FORANVI TV" },
 
 { "descriptions": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/RTGA/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg", "titles": "RTGA" }, 
 
