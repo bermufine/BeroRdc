@@ -105,18 +105,18 @@
           "subtitles": "All Channel",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1 / B"
-        }
+        },
+        {"descriptions":"Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala","source":["https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg","titles":"FIDEDI MOVIE TV"},
+        {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
+        {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"}
       ] 
     }
   ] 
 }  
 
-   
-        { "descriptions": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "titles": "FIDEDI MOVIE TV" },
+  
 
-{"descriptions": "Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channels","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles": "DESTINY CHANNEL"},
 
-{ "descriptions": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.", "source": [ "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg", "titles": "LIGHT ECO TV" }      
 
 
 
