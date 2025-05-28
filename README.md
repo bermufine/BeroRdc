@@ -95,7 +95,15 @@
           "thumbs": "https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo",
           "titles": "DIGITAL CONGO"
         },
-        { "descriptions": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "titles": "MALEBO MOVIES TV" },
+        { "descriptions": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "titles": "MALEBO MOVIES TV" }
+      ] 
+    }
+  ] 
+}
+
+
+
+        
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "source": [
@@ -292,9 +300,9 @@
           "thumbs": "https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg",
           "titles": "PSTV"
         }
-       ] 
-      }
-    ] 
+      ] 
+    }
+  ] 
 }
 
 
