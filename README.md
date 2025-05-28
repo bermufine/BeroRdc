@@ -96,14 +96,6 @@
           "titles": "DIGITAL CONGO"
         },
         { "descriptions": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "titles": "MALEBO MOVIES TV" }
-      ] 
-    }
-  ] 
-}
-
-
-
-        
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "source": [
@@ -118,12 +110,14 @@
 
 {"descriptions": "Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channels","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles": "DESTINY CHANNEL"},
 
-{ "descriptions": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.", "source": [ "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg", "titles": "LIGHT ECO TV" }, 
+{ "descriptions": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.", "source": [ "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg", "titles": "LIGHT ECO TV" }      
+      ] 
+    }
+  ] 
+}
 
-{ "descriptions": "Rhema TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/rhema-tv/rhema-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEzNjMzMjlf/rhema.jpg", "titles": "RHEMA TV" },
 
-{
-"descriptions": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.", "source": [ "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg", "titles": "MGS TV" }, 
+
 
 { "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/kin24/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
 
@@ -324,6 +318,10 @@
 
  { "descriptions": "Vengeance Télévision est la Chaîne Mystique.", "source": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "titles": "VENGEANCE TV" },
 { "descriptions": "Kk Tv, est une chaîne thematique de divertissements", "source": [ "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg", "titles": "KK TV" },
+{ "descriptions": "Rhema TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/rhema-tv/rhema-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEzNjMzMjlf/rhema.jpg", "titles": "RHEMA TV" },
+
+{
+"descriptions": "MGS Télévision est la première chaine Chretienne du Message temps de la Fin qui emette en République du Congo.", "source": [ "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEyNDc1ODFf/mgstele.jpg", "titles": "MGS TV" }, 
  {
           "descriptions": "DPK TV est une chaine de television....",
           "source": [
