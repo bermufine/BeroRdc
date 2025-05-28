@@ -95,7 +95,8 @@
           "thumbs": "https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo",
           "titles": "DIGITAL CONGO"
         },
-        { "descriptions": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "titles": "MALEBO MOVIES TV" }
+        { "descriptions": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "titles": "MALEBO MOVIES TV" },
+        { "descriptions": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "titles": "EMB MISSION TV" },
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
           "source": [
@@ -104,17 +105,19 @@
           "subtitles": "All Channel",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1 / B"
-        },
-        { "descriptions": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "titles": "EMB MISSION TV" },
+        }
+      ] 
+    }
+  ] 
+}  
+
+   
         { "descriptions": "Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg", "titles": "FIDEDI MOVIE TV" },
 
 {"descriptions": "Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Glory Channel TV rassure votre divertissement.", "source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channels","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles": "DESTINY CHANNEL"},
 
 { "descriptions": "LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres.", "source": [ "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg", "titles": "LIGHT ECO TV" }      
-      ] 
-    }
-  ] 
-}
+
 
 
 
