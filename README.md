@@ -62,14 +62,8 @@
           "thumbs": "https://od.lk/s/NzNfODIzNTUxNDhf/bossbrother.png
 ",
           "titles": "BOSS BROTHER"
-        }      
-      ]
-    }
-  ]
-}
-
- 
-         {
+        },      
+        {
           "descriptions": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
           "source": [
             "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
@@ -78,7 +72,7 @@
           "thumbs": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
           "titles": "RL PRO TV"
         },
-         {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
+         {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
         {
           "descriptions": "Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
           "source": [
@@ -90,8 +84,8 @@
         },
         { "descriptions": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "source": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "titles": "GOSPEL CHANNEL" }, 
         { "descriptions": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg", "titles": "S-MEDIAS TV 3" },  
-        {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
-        { "descriptions": "Maurice Kemba Vodo Television Chez-Vous et Pour Vous, est la chaîne d'Excellence dans l'Événementiel, Informations et divrtissement en Republique Democratique du Congo.", "source": [ "https://stream.berosat.live:19360/mkv-tv/mkv-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzgwMjgzMzlf/MKVTV.jpg", "titles": "MKV-TV" },
+        {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
+        { "descriptions": "Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde", "source": [ "https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODE4ODU2MjZf/console24tv.jpg", "titles": "CONSOLE 24 TV" },
          {
           "descriptions": "Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits",
           "source": [
@@ -128,8 +122,6 @@
 { "descriptions": "Foranvi TV est une chaîne generaliste et de divertissements.", "source": [ "https://stream.berosat.live:19360/foranvi-tv/foranvi-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEzNjM0Mjlf/foranvi.png", "titles": "FORANVI TV" },
 
 { "descriptions": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/RTGA/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg", "titles": "RTGA" }, 
-
-{ "descriptions": "Nkoko Matadi Nephtali Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/nephtali-tv/nephtali-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODExNDI1NTVf/nmntv.jpg", "titles": "NEPHTHALI TV" }, 
 
 { "descriptions": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/RTVS1/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png", "titles": "RTVS 1" },
 
@@ -300,6 +292,10 @@
           "thumbs": "https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg",
           "titles": "PSTV"
         }
+       ] 
+      }
+    ] 
+}
 
 
 
