@@ -108,20 +108,8 @@
         },
         {"descriptions":"Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala","source":["https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg","titles":"FIDEDI MOVIE TV"},
         {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
-        {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"}
-      ] 
-    }
-  ] 
-}  
-
-  
-
-
-
-
-
-
-
+        {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
+ 
 { "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/kin24/index.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
 
 { "descriptions": "Foranvi TV est une chaîne generaliste et de divertissements.", "source": [ "https://stream.berosat.live:19360/foranvi-tv/foranvi-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfODEzNjM0Mjlf/foranvi.png", "titles": "FORANVI TV" },
