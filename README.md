@@ -36,17 +36,8 @@
           "titles": "KIN DIRECT TV"
         },
         {"descriptions":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitles":"All Channels","number": "200","thumbs":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","titles":"EVI TV"},
-        {
-          "descriptions": "RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :",
-          "source": [
-            "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "number": "200",
-          "thumbs": "https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg",
-          "titles": "RTV CBCO"
-        },
-        {
+      
+  {
           "descriptions": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
           "source": [
             " https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
@@ -79,31 +70,20 @@
           "titles": "RL PRO TV"
         },
          {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
-        {
-          "descriptions": "Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
-          "source": [
-            "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "number": "200",
-          "thumbs": "https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg",
-          "titles": "BERO TV"
-        },
-        { "descriptions": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "source": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "titles": "GOSPEL CHANNEL" }, 
+        
+   { "descriptions": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "source": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "titles": "GOSPEL CHANNEL" }, 
         { "descriptions": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg", "titles": "S-MEDIAS TV 3" },  
         {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
-        { "descriptions": "Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde", "source": [ "https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODE4ODU2MjZf/console24tv.jpg", "titles": "CONSOLE 24 TV" },
          {
           "descriptions": "Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits",
           "source": [
-            "http://51.254.199.122:8080/DigitalCongoTV/index.m3u8"
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/dcc/playlist.m3u8"
           ],
           "subtitles": "All Channel",
           "number": "200",
           "thumbs": "https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo",
           "titles": "DIGITAL CONGO"
         },
-        { "descriptions": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "titles": "MALEBO MOVIES TV" },
         { "descriptions": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "titles": "EMB MISSION TV" },
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
@@ -113,21 +93,36 @@
           "subtitles": "All Channel",
           "number": "200",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
+          "titles": "RTNC 1"
+        },
+        {
+          "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+          "source": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtnc1/playlist.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "200",
+          "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1 HD"
         },
-        {"descriptions":"Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala","source":["https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg","titles":"FIDEDI MOVIE TV"},
+        {
+          "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+          "source": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtnc3/playlist.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "200",
+          "thumbs": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg",
+          "titles": "RTNC 3"
+        },
         {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
         {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
  
-{ "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/kin24/index.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
+{ "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/kin24/playlist.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
 
-{ "descriptions": "Foranvi TV est une chaîne generaliste et de divertissements.", "source": [ "https://stream.berosat.live:19360/foranvi-tv/foranvi-tv.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODEzNjM0Mjlf/foranvi.png", "titles": "FORANVI TV" },
+{ "descriptions": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtga/playlist.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg", "titles": "RTGA" }, 
 
-{ "descriptions": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/RTGA/index.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg", "titles": "RTGA" }, 
-
-{ "descriptions": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "http://51.254.199.122:8080/RTVS1/index.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png", "titles": "RTVS 1" },
-
-{ "descriptions": "RMTV est une chaîne chretienne", "source": [ "http://51.254.199.122:8080/resTV/index.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg", "titles": "RMTV" },
+{ "descriptions": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/tvs1/playlist.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png", "titles": "RTVS 1" },
 
  {
           "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
@@ -138,9 +133,31 @@
           "number": "200",
           "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "titles": "CCPV TV"
+  },
+  {
+          "descriptions": "B-one TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
+          "source": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/b-one/playlist.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "200",
+          "thumbs": "https://od.lk/s/NDZfODY3NTI2NDZf/b-one.jpg",
+          "titles": "B-ONE TV"
         },
-        { "descriptions": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "source": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "titles": "SV-TV"},
-        { "descriptions": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitles": "All Channel","number": "200", "thumbs": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "titles": "TOP NOVELAS" }, 
+        {
+          "descriptions": "Canal Chemin et la Verite est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
+          "source": [
+            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/cvvtv/playlist.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "200",
+          "thumbs": "https://od.lk/s/NDZfODY3NTI2NThf/cvvtv.jpg",
+          "titles": "CVV TV"
+        },
+        
+ { "descriptions": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "source": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "titles": "SV-TV"},
+        
+ { "descriptions": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitles": "All Channel","number": "200", "thumbs": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "titles": "TOP NOVELAS" }, 
         {
           "descriptions": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
           "source": [
@@ -155,6 +172,13 @@
     }
   ] 
 }  
+
+
+
+
+
+
+
 
         
         {
@@ -323,6 +347,34 @@
 
 
 
+
+
+
+{ "descriptions": "RMTV est une chaîne chretienne", "source": [ "http://51.254.199.122:8080/resTV/index.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/M18zMTI0Njc1Mjhf/rmtv.jpg", "titles": "RMTV" },
+{ "descriptions": "Foranvi TV est une chaîne generaliste et de divertissements.", "source": [ "https://stream.berosat.live:19360/foranvi-tv/foranvi-tv.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODEzNjM0Mjlf/foranvi.png", "titles": "FORANVI TV" },
+ {"descriptions":"Fidedi Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala","source":["https://stream.berosat.live:19360/fidedi-movie-stream/fidedi-movie-stream.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEyOTYzMDBf/fidediMovie.jpg","titles":"FIDEDI MOVIE TV"},
+        { "descriptions": "Malebo Movies Television est une chaîne de télévision divetissement émettant à partir de Kinshasa en République démocratique du Congo axée sur les films Africains interpreter en Lingala", "source": [ "https://stream.berosat.live:19360/malebo-movies/malebo-movies.m3u85" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODExNDE4OTZf/malebotvmovies.jpg", "titles": "MALEBO MOVIES TV" },
+         { "descriptions": "Radio télévision console 24 le guide réel nous somme un média commercial qui à pour bute de promouvoir les artistes de la RDC vers le monde", "source": [ "https://stream.berosat.live:19360/tv-console24-stream/tv-console24-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODE4ODU2MjZf/console24tv.jpg", "titles": "CONSOLE 24 TV" },
+         {
+          "descriptions": "Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
+          "source": [
+            "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "200",
+          "thumbs": "https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg",
+          "titles": "BERO TV"
+        },
+         {
+          "descriptions": "RTV CBCO est une chaine chretienne baptistes emettant a kinshasa qui diffuse des emissions chretienne, gospel musique, predication et plein d'autres pour edifier le peuple de Dieu. Pour tout contact : WhatsApp au +243 00 00 00 000 ou encore émail au :",
+          "source": [
+            "https://stream.berosat.live:19360/rtv-cbco/rtv-cbco.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "200",
+          "thumbs": "https://od.lk/s/NzNfODA5MzE0NjZf/cbco.jpg",
+          "titles": "RTV CBCO"
+        },
 
  { "descriptions": "Vengeance Télévision est la Chaîne Mystique.", "source": [ "https://stream.berosat.live:19360/vengeance-tv/vengeance-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzI1MTY4Njlf/Vengeance.jpg", "titles": "VENGEANCE TV" },
 { "descriptions": "Kk Tv, est une chaîne thematique de divertissements", "source": [ "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8" ], "subtitles": "All Channels", "thumbs": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg", "titles": "KK TV" },
