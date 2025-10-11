@@ -80,7 +80,7 @@
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/dcc/playlist.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "798",
           "thumbs": "https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo",
           "titles": "DIGITAL CONGO"
         },
@@ -91,7 +91,7 @@
             "http://69.64.57.208/rtnc/playlist.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "799",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
         },
@@ -111,18 +111,18 @@
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtnc3/playlist.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "797",
           "thumbs": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg",
           "titles": "RTNC 3"
         },
         {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
         {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
  
-{ "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/kin24/playlist.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
+{ "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/kin24/playlist.m3u8" ], "subtitles": "All Channels","number": "796", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
 
-{ "descriptions": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtga/playlist.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg", "titles": "RTGA" }, 
+{ "descriptions": "Radio Télévision Groupe Avenir, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/rtga/playlist.m3u8" ], "subtitles": "All Channels","number": "791", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzJf/rtga.jpeg", "titles": "RTGA" }, 
 
-{ "descriptions": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/tvs1/playlist.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png", "titles": "RTVS 1" },
+{ "descriptions": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/tvs1/playlist.m3u8" ], "subtitles": "All Channels","number": "792", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png", "titles": "RTVS 1" },
 
  {
           "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
@@ -130,7 +130,7 @@
             "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "793",
           "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "titles": "CCPV TV"
   },
@@ -140,7 +140,7 @@
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/b-one/playlist.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "794",
           "thumbs": "https://od.lk/s/NDZfODY3NTI2NDZf/b-one.jpg",
           "titles": "B-ONE TV"
         },
@@ -150,7 +150,7 @@
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/cvvtv/playlist.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "795",
           "thumbs": "https://od.lk/s/NDZfODY3NTI2NThf/cvvtv.jpg",
           "titles": "CVV TV"
         },
@@ -167,6 +167,16 @@
           "number": "200",
           "thumbs": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
           "titles": "ONE TV"
+        },
+         {
+          "descriptions": "Tele 50 est une chaîne privée émettant à Kinshasa",
+          "source": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "790",
+          "thumbs": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
+          "titles": "TELE 50"
         }
       ] 
     }
