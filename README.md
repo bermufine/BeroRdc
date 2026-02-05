@@ -141,7 +141,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
             "http://37.187.138.41:80/RTNC/index.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "798",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC HD"
         },
@@ -155,14 +155,14 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
         },
-        { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
+        { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "58", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
          {
           "descriptions": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
           "source": [
             "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
           ],
           "subtitles": "All Channels",
-          "number": "200",
+          "number": "60",
           "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "titles": "KIN DIRECT TV"
         },
@@ -172,28 +172,28 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
             " https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "104",
           "thumbs": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
           "titles": "METANOIA TV"
         },
-        {"descriptions":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitles":"All Channels","number": "200","thumbs":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","titles":"EVI TV"},
+        {"descriptions":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitles":"All Channels","number": "65","thumbs":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","titles":"EVI TV"},
 
-  { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
+  { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "258", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
   {
           "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
           "source": [
             "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
-          "thumbs": "https://od.lk/s/NzNfODIzNTUxNDhf/bossbrother.png
-",
+          "number": "54",
+          "thumbs": "https://od.lk/s/NzNfODIzNTUxNDhf/bossbrother.png",
           "titles": "BOSS BROTHER"
         },      
-        {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
+        {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","number": "55","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
         
    { "descriptions": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "source": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "titles": "GOSPEL CHANNEL" }, 
-        { "descriptions": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg", "titles": "S-MEDIAS TV 3" },  
+   
+  { "descriptions": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg", "titles": "S-MEDIAS TV 3" },  
         
   {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
 
@@ -201,7 +201,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
  {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
  
-  {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
+  {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
 
    {
           "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
@@ -213,7 +213,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "titles": "CCPV TV"
   },
-   { "descriptions": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitles": "All Channel","number": "200", "thumbs": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "titles": "TOP NOVELAS" }, 
+   { "descriptions": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitles": "All Channel","number": "421", "thumbs": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "titles": "TOP NOVELAS" }, 
         {
           "descriptions": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
           "source": [
@@ -355,7 +355,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "titles": "JOY TV"
         },
         {
-         "descriptions": "Joy TV est une chaîne généraliste émettant à partir de Kinshasa en RDC. JOY TV, une vision à travers le monde",
+         "descriptions": "Prijana TV est une chaîne généraliste émettant à partir de Kinshasa en RDC, une vision à travers le monde",
           "source": [
             "https://stream.berosat.live:19360/prijana/prijana.m3u8"
           ],
@@ -403,16 +403,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "729",
           "thumbs": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
           "titles": "KK TV"
-        },
-        {
-         "descriptions": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, Pourim RTV brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
-          "source": [
-            "https://stella.streamerr.co:3776/hybrid/play.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "number": "75",
-          "thumbs": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title",
-          "titles": "POURIM-RTV"
         },
         {
          "descriptions": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, Pourim RTV brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
@@ -540,7 +530,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
             "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
           ],
           "subtitles": "All Channels",
-          "number": "200",
+          "number": "511",
           "thumbs": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
           "titles": "FRYCOMS TV"
         }
