@@ -55,14 +55,14 @@
           "titles": "RL PRO TV"
         },
         {
-          "descriptions": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "descriptions": "Sifa La Souriante Télévision, une chaine qui valorise le cinema congolais"",
           "source": [
-            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+            "https://stream.berosat.live:19360/sifa-tv/sifa-tv.m3u8"
           ],
           "subtitles": "All Channels",
-          "number": "786",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
-          "titles": "TOSEKA TV"
+          "number": "413",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQ3Xw/sifatv.jpg",
+          "titles": "SIFA TV"
         },
         {
           "descriptions": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs. Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
@@ -116,6 +116,16 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "titles": "FINESSE MONDE"
         },
         {
+          "descriptions": "Tele 50 est une chaîne privée émettant à Kinshasa",
+          "source": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "790",
+          "thumbs": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
+          "titles": "TELE 50"
+        },
+        {
           "descriptions": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..",
           "source": [
             "https://stream.berosat.live:19360/der-tv/der-tv.m3u8"
@@ -156,9 +166,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "titles": "KIN DIRECT TV"
         },
-        {"descriptions":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitles":"All Channels","number": "200","thumbs":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","titles":"EVI TV"},
-      
-  {
+        {
           "descriptions": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
           "source": [
             " https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
@@ -168,7 +176,9 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
           "titles": "METANOIA TV"
         },
-        { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
+        {"descriptions":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitles":"All Channels","number": "200","thumbs":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","titles":"EVI TV"},
+
+  { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
   {
           "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
           "source": [
@@ -214,15 +224,15 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
           "titles": "ONE TV"
         },
-         {
-          "descriptions": "Tele 50 est une chaîne privée émettant à Kinshasa",
+        {
+         "descriptions": "KMK TV (Kreativ Média Kongo) est une chaîne de télévision congolaise commerciale et généraliste, bâtie sur les piliers de la créativité, de l’innovation et du professionnalisme. Notre mission est claire : informer, divertir et inspirer le public congolais ainsi que le monde entier à travers des contenus riches, dynamiques et porteurs de valeurs. Nous nous positionnons comme une plateforme audiovisuelle moderne et stratégique, ouverte sur le monde et connectée aux réalités du public d’aujourd’hui. Grâce à une programmation variée – actualités, magazines, divertissements, culture, éducation, économie, talk-shows, et émissions de société – KMK TV se distingue comme un carrefour d’idées, d’opportunités et d’expression pour tous. Pour les annonceurs, institutions et marques, KMK TV offre une visibilité nationale et internationale de haut niveau, grâce à une diffusion de qualité et à une audience diversifiée et engagée. Slogan : Vous servir, c’est notre devoir. 🌐 Contact : kmktvcommerciale@gmail.com 📢 KMK TV – Là où la créativité rencontre l’excellence pour servir le Congo et le monde",
           "source": [
-            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
+            "https://stream.berosat.live:19360/kmk-index/kmk-index.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "790",
-          "thumbs": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
-          "titles": "TELE 50"
+          "number": "885",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDY4Xw/kmk.jpg",
+          "titles": "KMK TV"
         },
         {
          "descriptions": "NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.",
@@ -233,6 +243,56 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "793",
           "thumbs": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg",
           "titles": "NUMERICA TV"
+        },
+        {
+         "descriptions": "Kipushi 24 télévision, est une chaîne généraliste d'iformations, divertissement et la promotion Culturelle. émettant en République Démocratique du Congo.",
+          "source": [
+            "http://iptv.berosat.live/hls/KIPUSHI24/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "793",
+          "thumbs": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
+          "titles": "KIPUSHI 24 TV"
+        },
+        {
+         "descriptions": "ERD télévision Une chaîne d’édification et restauration d'équipe âmes. émettant en République Démocratique du Congo.",
+          "source": [
+            "http://iptv.berosat.live/hls/ERD-TV/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "101",
+          "thumbs": "https://od.lk/s/NDZfOTAxMDMzODZf/erdtv.jpg",
+          "titles": "ERD TV"
+        },
+        {
+         "descriptions": "Lumiere du Monde télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/lumiere-tv/lumiere-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "423",
+          "thumbs": "https://od.lk/s/NDZfOTAzNDA3ODhf/lumieremomde.jpg",
+          "titles": "LUMIERE TV"
+        },
+        {
+         "descriptions": "Nous sommes une chaîne d'information et divertissement Emettant depuis Sakania en Republique Democratique du Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/lubembe-tv/lubembe-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "524",
+          "thumbs": "https://od.lk/s/NDZfODUwMTkwNDVf/lubembe.jpg",
+          "titles": "LUBEMBE TV"
+        },
+        {
+         "descriptions": "infos Plus Magazine télévision, est une chaîne généraliste émettant en République Démocratique du Congo, Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques.",
+          "source": [
+            "https://stream.berosat.live:19360/infos-plus/infos-plus.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "888",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
+          "titles": "INFO + HD TV"
         }
       ] 
     }
