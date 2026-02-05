@@ -293,6 +293,136 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "888",
           "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQ1Xw/infosplus.jpg",
           "titles": "INFO + HD TV"
+        },
+        {
+         "descriptions": "RT Afrika Telema TV est une chaîne généraliste émettant en République Démocratique du Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/afrika-index/afrika-index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "657",
+          "thumbs": "https://od.lk/s/NDZfODc2NjAwNTNf/afrikatelema.jpg",
+          "titles": "RT AFRIKA TELEMA"
+        },
+        {
+         "descriptions": "CPT télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "source": [
+            "https://stream.berosat.live:19360/cpt-tv/cpt-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "784",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQyXw/cpttv.jpg",
+          "titles": "CPT TV"
+        },
+        {
+         "descriptions": "Fondation Jonathan Sangu télévision est une chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/fjs-tv/fjs-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "586",
+          "thumbs": "https://od.lk/s/NDZfOTA3MjU0ODJf/fjstv.jpg",
+          "titles": "FJS HD TV"
+        },
+        {
+         "descriptions": "Vitesse TV est une chaine divertissements émettent à Kinshasa en République démocratique du Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/vitesse-tv/vitesse-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "699",
+          "thumbs": "https://od.lk/s/NDZfOTA0MDcxNzhf/vitesse.jpg",
+          "titles": "VITESSE TV"
+        },
+        {
+         "descriptions": "Mosaïque télévision chaîne généraliste de proximité émettent à Kinshasa en République démocratique du Congo",
+          "source": [
+            "https://stream.berosat.live:19360/mosaique-tv/mosaique-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "441",
+          "thumbs": "https://od.lk/s/NDZfOTA0MTQ1NDBf/mosaique.jpg",
+          "titles": "MOSAIQUE TV"
+        },
+        {
+         "descriptions": "Joy TV est une chaîne généraliste émettant à partir de Lubumbashi, dans le haut- Katanga en RDC. JOY TV, une vision à travers le monde, JOY TV, Nous sommes au centre de votre vie quotidienne..",
+          "source": [
+            "https://stream.berosat.live:19360/joy-tv/joy-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "514",
+          "thumbs": "https://od.lk/s/NDZfODQ1OTM1Mjdf/joytv.jpg",
+          "titles": "JOY TV"
+        },
+        {
+         "descriptions": "Joy TV est une chaîne généraliste émettant à partir de Kinshasa en RDC. JOY TV, une vision à travers le monde",
+          "source": [
+            "https://stream.berosat.live:19360/prijana/prijana.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "432",
+          "thumbs": "https://od.lk/s/NDZfOTAxNTgxNjVf/prijanatv.jpg",
+          "titles": "PRIJANA TV"
+        },
+        {
+         "descriptions": "Communaute Hospitaliere Télévision HD est une chaîne generaliste Informations et divrtissement Émettant en Republique Democratique du Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/chtv-hd/chtv-hd.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "145",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDY0Xw/chtv.jpg",
+          "titles": "CH TV HD"
+        },
+        {
+         "descriptions": "Destiny Channel TV est une la Chaîne chrétienne de développement et Entreprenariat et autres Émettant en Republique Democratique du Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "88",
+          "thumbs": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
+          "titles": "DESTINY CHANNEL"
+        },
+        {
+         "descriptions": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde",
+          "source": [
+            "http://iptv.berosat.live/hls/FMG-TV/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "109",
+          "thumbs": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg",
+          "titles": "FMG-RTV"
+        },
+        {
+         "descriptions": "Kk Tv, est une chaîne thematique de divertissements d'actualite, magazine, culture et autres, depuis la ville de Londre !!!",
+          "source": [
+            "https://stream.berosat.live:19360/kk-tv/kk-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "729",
+          "thumbs": "https://od.lk/s/NDZfNzYzMDYxOTJf/KKTV.jpg",
+          "titles": "KK TV"
+        },
+        {
+         "descriptions": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, Pourim RTV brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
+          "source": [
+            "https://stella.streamerr.co:3776/hybrid/play.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "75",
+          "thumbs": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title",
+          "titles": "POURIM-RTV"
+        },
+        {
+         "descriptions": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, Pourim RTV brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
+          "source": [
+            "https://stella.streamerr.co:3776/hybrid/play.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "75",
+          "thumbs": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title",
+          "titles": "POURIM-RTV"
         }
       ] 
     }
