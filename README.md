@@ -5,14 +5,125 @@
       "names": "Movie",
       "videos": [
          {
-          "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "descriptions": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "source": [
-            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
           ],
           "subtitles": "All Channels",
           "number": "200",
-          "thumbs": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
-          "titles": "CBC TV"
+          "thumbs": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "titles": "FRYCOMS TV"
+        },
+        {
+          "descriptions": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "source": [
+            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "200",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
+          "titles": "TOSEKA TV"
+        },
+        {
+          "descriptions": "Le Monde en 24H, l'autoroute de l'information ",
+          "source": [
+            "https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "52",
+          "thumbs": "https://od.lk/s/NDZfODE2MjAwNTBf/monde24h.jpg",
+          "titles": "LE MONDE EN 24H"
+        },
+        {
+          "descriptions": "By Wello télévision est Une Chaîne à caractère cinématographique et culturel",
+          "source": [
+            "https://stream.berosat.live:19360/wello-tv/wello-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "417",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk2NzYxXw/welotv.jpg",
+          "titles": "BY WELLO TV"
+        },
+        {
+          "descriptions": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
+          "source": [
+            "http://iptv.berosat.live/hls/RLPRO-TV/index.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "61",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDc2Xw/rlpro.jpg",
+          "titles": "RL PRO TV"
+        },
+        {
+          "descriptions": "To Seka télévision est une chaîne 100% culturelle émettant depuis Kinshasa en RDCongo.",
+          "source": [
+            "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "786",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
+          "titles": "TOSEKA TV"
+        },
+        {
+          "descriptions": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs. Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
+          "source": [
+            "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "391",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDYzXw/barakatv.jpg",
+          "titles": "BARAKA TV"
+        },
+        {
+          "descriptions": "Bienvenue sur Congo Unis Télévision, la chaîne des mémoires vivantes.Ici, chaque émission est une cérémonie, chaque diffusion une offrande à la mémoire collective.
+Nous sommes Congo Unis Télévision, un espace où la technique rencontre la poésie, où l’image devient rituel. Ce que nous proposons : - 🎬 Films et séries qui racontent l’histoire et l’avenir du Congo. - 📰 Informations et débats pour éclairer la jeunesse et renforcer l’unité. - 🎤 Concerts, cérémonies et événements retransmis comme invocations vivantes. 👉 Abonnez-vous pour participer à cette aventure où chaque image est une parole vivante, chaque programme une invocation d’unité et de réparation.",
+          "source": [
+            "https://stream.berosat.live:19360/congo-unis/congo-unis.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "379",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQxXw/congounistv.jpg",
+          "titles": "CONGO UNIS"
+        },
+        {
+          "descriptions": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.",
+          "source": [
+            "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "49",
+          "thumbs": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jpg",
+          "titles": "GOLGOTHA TV"
+        },
+        {
+          "descriptions": "LOLLYWOOD HD TV est une chaîne de télévision spécialisée dans la promotion du cinéma, des séries et de la musique locale du Haut-Katanga, en particulier de la ville de Lubumbashi. Elle met en lumière les talents congolais à travers une programmation riche, captivante et 100% culturelle. 🎬 Au cœur de la culture lushoise, LOLLYWOOD HD TV diffuse gratuitement des films, séries, documentaires et clips musicaux produits localement, tout en offrant un espace aux jeunes créateurs et artistes pour faire rayonner leur art à l’échelle nationale et internationale..",
+          "source": [
+            "https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "785",
+          "thumbs": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
+          "titles": "LOLLYWOOD HD TV"
+        },
+        {
+          "descriptions": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo.",
+          "source": [
+            "https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "12",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDY2Xw/finesse.jpg",
+          "titles": "FINESSE MONDE"
+        },
+        {
+          "descriptions": "DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner..",
+          "source": [
+            "https://stream.berosat.live:19360/der-tv/der-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "64",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDY1Xw/der.webp",
+          "titles": "DER-TV"
         },
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
@@ -21,6 +132,16 @@
           ],
           "subtitles": "All Channel",
           "number": "200",
+          "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
+          "titles": "RTNC HD"
+        },
+        {
+          "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
+          "source": [
+            "http://69.64.57.208/rtnc/playlist.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "799",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
         },
@@ -59,22 +180,72 @@
 ",
           "titles": "BOSS BROTHER"
         },      
-        {
-          "descriptions": "RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM",
-          "source": [
-            "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-          ],
-          "subtitles": "All Channels",
-          "number": "200",
-          "thumbs": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
-          "titles": "RL PRO TV"
-        },
-         {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
+        {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
         
    { "descriptions": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "source": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "titles": "GOSPEL CHANNEL" }, 
         { "descriptions": "S-Médias Tv3, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNzQ2OTEwNjBf/mediaLogo.jpg", "titles": "S-MEDIAS TV 3" },  
-        {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
+        
+  {"descriptions":"Espoir TV est une chaine de télévision....","source":["https://stream.berosat.live:19360/espoir-tv-stream/espoir-tv-stream.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfNTgyNTAwODRf/Espoir.jpg","titles":"ESPOIR TV"},
+
+  { "descriptions": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "titles": "EMB MISSION TV" },
+
+ {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
+ 
+  {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
+
+   {
+          "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
+          "source": [
+            "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "793",
+          "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
+          "titles": "CCPV TV"
+  },
+   { "descriptions": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitles": "All Channel","number": "200", "thumbs": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "titles": "TOP NOVELAS" }, 
+        {
+          "descriptions": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
+          "source": [
+            "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "200",
+          "thumbs": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
+          "titles": "ONE TV"
+        },
          {
+          "descriptions": "Tele 50 est une chaîne privée émettant à Kinshasa",
+          "source": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "790",
+          "thumbs": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
+          "titles": "TELE 50"
+        },
+        {
+         "descriptions": "NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.",
+          "source": [
+            "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "793",
+          "thumbs": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg",
+          "titles": "NUMERICA TV"
+        }
+      ] 
+    }
+  ] 
+} 
+
+
+
+
+
+
+
+       {
           "descriptions": "Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits",
           "source": [
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/dcc/playlist.m3u8"
@@ -83,17 +254,6 @@
           "number": "798",
           "thumbs": "https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo",
           "titles": "DIGITAL CONGO"
-        },
-        { "descriptions": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "titles": "EMB MISSION TV" },
-        {
-          "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
-          "source": [
-            "http://69.64.57.208/rtnc/playlist.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "number": "799",
-          "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
-          "titles": "RTNC 1"
         },
         {
           "descriptions": "La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.",
@@ -115,8 +275,7 @@
           "thumbs": "https://od.lk/s/NDZfODAxMTYyMzZf/rtnc3.jpeg",
           "titles": "RTNC 3"
         },
-        {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
-        {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
+     
  
 { "descriptions": "KIN24 Télévision, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/kin24/playlist.m3u8" ], "subtitles": "All Channels","number": "796", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzBf/kin24.jpeg", "titles": "KIN24 TV" }, 
 
@@ -124,16 +283,7 @@
 
 { "descriptions": "RTVS1, la chaîne d'Excellence dans l'Événementiel et Informations en Republique Democratique du Congo.", "source": [ "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/tvs1/playlist.m3u8" ], "subtitles": "All Channels","number": "792", "thumbs": "https://od.lk/s/NDZfODAxMTYyMzdf/rtvs.png", "titles": "RTVS 1" },
 
- {
-          "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
-          "source": [
-            "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "number": "793",
-          "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
-          "titles": "CCPV TV"
-  },
+
   {
           "descriptions": "B-one TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
           "source": [
@@ -157,31 +307,8 @@
         
  { "descriptions": "Sacrée Vision Média TV est une chaîne privée émettant à Kinshasa", "source": [ "https://stream.berosat.live:19360/sv-stream-tv/sv-stream-tv.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNzc1NDA5ODhf/svtv.jpg", "titles": "SV-TV"},
         
- { "descriptions": "Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : congomonpays243@gmail.com", "source": [ "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8" ], "subtitles": "All Channel","number": "200", "thumbs": "https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png", "titles": "TOP NOVELAS" }, 
-        {
-          "descriptions": "ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
-          "source": [
-            "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "number": "200",
-          "thumbs": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
-          "titles": "ONE TV"
-        },
-         {
-          "descriptions": "Tele 50 est une chaîne privée émettant à Kinshasa",
-          "source": [
-            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_08637130250e11f0afb3a374844fe15e/index.fmp4.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "number": "790",
-          "thumbs": "https://od.lk/s/NDZfODY3NTUwMjRf/tele50.jpg",
-          "titles": "TELE 50"
-        }
-      ] 
-    }
-  ] 
-}  
+
+ 
 
 
 
@@ -200,14 +327,7 @@
           "thumbs": "https://od.lk/s/M18yOTcyNTIwMjNf/nyota.jpg",
           "titles": "NYOTA TV"
         },
-          "descriptions": "NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.",
-          "source": [
-            "http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitles": "All Channel",
-          "thumbs": "https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg",
-          "titles": "NUMERICA TV"
-        },
+          
         {
           "descriptions": "Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....",
           "source": [
