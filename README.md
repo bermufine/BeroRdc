@@ -10,7 +10,7 @@
             "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
           ],
           "subtitles": "All Channels",
-          "number": "200",
+          "number": "417",
           "thumbs": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
           "titles": "FRYCOMS TV"
         },
@@ -20,7 +20,7 @@
             "https://stream.berosat.live:19360/toseka-tv/toseka-tv.m3u8"
           ],
           "subtitles": "All Channels",
-          "number": "200",
+          "number": "786",
           "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTQ4Xw/toseka.jpg",
           "titles": "TOSEKA TV"
         },
@@ -423,6 +423,126 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "75",
           "thumbs": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title",
           "titles": "POURIM-RTV"
+        },
+        {
+         "descriptions": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation.",
+          "source": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "997",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg","title",
+          "titles": "JERUBAAL TV"
+        },
+        {
+         "descriptions": "EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV.",
+          "source": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@EGG_PRO_TV.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "106",
+          "thumbs": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title",
+          "titles": "EGG PRO TV"
+        },
+        {
+         "descriptions": "Sentinelle TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés",
+          "source": [
+            "http://37.187.138.41:80/Sentinelle/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "98",
+          "thumbs": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png","title",
+          "titles": "SENTINELLE TV"
+        },
+        {
+         "descriptions": "MAGECO PRO TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "source": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@MAGECO_PRO_TV.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "998",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAxXw/mageco.jpg","title",
+          "titles": "MAGECO PRO TV"
+        },
+        {
+         "descriptions": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "source": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@RUPTURE_TV.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "999",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg","title",
+          "titles": "RUPTURE TV"
+        },
+        {
+         "descriptions": "Bilolo tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "source": [
+            "http://185.209.228.92:8080/hls/BIOLO_TV_HD.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "1000",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk0Xw/bilolotv.jpg","title",
+          "titles": "BILOLO TV"
+        },
+        {
+         "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
+          "source": [
+            "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "111",
+          "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title",
+          "titles": "CCPV TV"
+        },
+        {
+         "descriptions": "Intello Plus Afrika, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "source": [
+            "http://185.209.228.92:8080/hls/INTELLO+.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "1001",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg","title",
+          "titles": "INTELLO+ TV"
+        },
+        {
+         "descriptions": "Grand Media tv, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "source": [
+            "http://185.209.228.92:8080/hls/GRAND_MEDIA_TV.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "1002",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg","title",
+          "titles": "GRAND MEDIA TV"
+        },
+        {
+         "descriptions": "BISO TV est la chaine thematique generaliste emettant depuis la RDCongo",
+          "source": [
+            "http://37.187.138.41:80/BISO/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "95",
+          "thumbs": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg","title",
+          "titles": "BISO TV"
+        },
+        {
+         "descriptions": "RTSIR, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
+          "source": [
+            "http://185.209.228.92:8080/hls/RTSIR.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "999",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAzXw/rtsir.jpg","title",
+          "titles": "RTSIR"
+        },
+         {
+          "descriptions": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
+          "source": [
+            "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
+          ],
+          "subtitles": "All Channels",
+          "number": "200",
+          "thumbs": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
+          "titles": "FRYCOMS TV"
         }
       ] 
     }
