@@ -165,7 +165,15 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "60",
           "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "titles": "KIN DIRECT TV"
-        },
+        }
+      ] 
+    }
+  ] 
+} 
+    
+        
+        
+        
         {
           "descriptions": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
           "source": [
@@ -253,11 +261,12 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "793",
           "thumbs": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
           "titles": "KIPUSHI 24 TV"
-        }
-      ] 
-    }
-  ] 
-} 
+        },
+
+
+
+        
+
 
         {
          "descriptions": "ERD télévision Une chaîne d’édification et restauration d'équipe âmes. émettant en République Démocratique du Congo.",
