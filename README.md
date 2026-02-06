@@ -104,7 +104,11 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "785",
           "thumbs": "https://od.lk/s/NDZfODgwMDc4MjFf/lollywoodtv.jpg",
           "titles": "LOLLYWOOD HD TV"
-        },
+        }
+      ] 
+    }
+  ] 
+} 
         {
           "descriptions": "Finesse Monde TV, une Chaîne de l'actualité et de publicité, Notre Slogan : Nous Sommes au Cœur de Votre Succès. Nous émettons depuis la ville de Lubumbashi en R.D.Congo.",
           "source": [
@@ -165,11 +169,8 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "60",
           "thumbs": "https://od.lk/s/NzNfODE4NzUyMzFf/kinDirect.jpg",
           "titles": "KIN DIRECT TV"
-        }
-      ] 
-    }
-  ] 
-} 
+        },
+  
     
         
         
