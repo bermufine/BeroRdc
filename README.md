@@ -394,12 +394,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "109",
           "thumbs": "https://od.lk/s/NDZfNzc3ODExOTFf/FMGRTV.jpg",
           "titles": "FMG-RTV"
-        }
-      ] 
-    }
-  ] 
-}
-
+        },
         {
          "descriptions": "Kk Tv, est une chaîne thematique de divertissements d'actualite, magazine, culture et autres, depuis la ville de Londre !!!",
           "source": [
@@ -417,7 +412,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "75",
-          "thumbs": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg","title",
+          "thumbs": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg",
           "titles": "POURIM-RTV"
         },
         {
@@ -427,7 +422,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "997",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg","title",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
           "titles": "JERUBAAL TV"
         },
         {
@@ -437,7 +432,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "106",
-          "thumbs": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","title",
+          "thumbs": "https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg",
           "titles": "EGG PRO TV"
         },
         {
@@ -447,7 +442,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "98",
-          "thumbs": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png","title",
+          "thumbs": "https://od.lk/s/NDZfODE5MTgxMjJf/sentinelletv.png",
           "titles": "SENTINELLE TV"
         },
         {
@@ -457,11 +452,9 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "998",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAxXw/mageco.jpg","title",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAxXw/mageco.jpg",
           "titles": "MAGECO PRO TV"
         },
-     
-  
         {
          "descriptions": "Rupture TV, est une chaîne télévision de divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay",
           "source": [
@@ -469,7 +462,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "999",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg","title",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDA0Xw/rupture.jpg",
           "titles": "RUPTURE TV"
         },
         {
@@ -479,7 +472,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "1000",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk0Xw/bilolotv.jpg","title",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk0Xw/bilolotv.jpg",
           "titles": "BILOLO TV"
         },
         {
@@ -489,7 +482,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "111",
-          "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title",
+          "thumbs": "https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
           "titles": "CCPV TV"
         },
         {
@@ -499,7 +492,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "1001",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg","title",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk5Xw/intelloAfrika.jpg",
           "titles": "INTELLO+ TV"
         },
         {
@@ -509,7 +502,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "1002",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg","title",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk3OTk4Xw/grandMedia.jpg",
           "titles": "GRAND MEDIA TV"
         },
         {
@@ -519,7 +512,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "95",
-          "thumbs": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg","title",
+          "thumbs": "https://od.lk/s/NDZfODE5MTc5ODdf/bisotv.jpg",
           "titles": "BISO TV"
         },
         {
@@ -529,7 +522,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           ],
           "subtitles": "All Channel",
           "number": "999",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAzXw/rtsir.jpg","title",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAzXw/rtsir.jpg",
           "titles": "RTSIR"
         },
          {
