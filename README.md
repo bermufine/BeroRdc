@@ -254,12 +254,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "793",
           "thumbs": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
           "titles": "KIPUSHI 24 TV"
-        }
-      ] 
-    }
-  ] 
-}
-
+        },
         {
          "descriptions": "ERD télévision Une chaîne d’édification et restauration d'équipe âmes. émettant en République Démocratique du Congo.",
           "source": [
@@ -329,7 +324,12 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "586",
           "thumbs": "https://od.lk/s/NDZfOTA3MjU0ODJf/fjstv.jpg",
           "titles": "FJS HD TV"
-        },
+        }
+      ] 
+    }
+  ] 
+}
+
         {
          "descriptions": "Vitesse TV est une chaine divertissements émettent à Kinshasa en République démocratique du Congo.",
           "source": [
