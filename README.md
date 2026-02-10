@@ -154,7 +154,12 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "799",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
-        },
+        }
+      ] 
+    }
+  ] 
+} 
+
         { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "58", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
          {
           "descriptions": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
@@ -178,7 +183,6 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
         },
         {"descriptions":"Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com","source":["https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"],"subtitles":"All Channels","number": "65","thumbs":"https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg","titles":"EVI TV"},
 
-  { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "258", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
   {
           "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
           "source": [
@@ -199,7 +203,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
   { "descriptions": "EMB MISSION TV est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés..", "source": [ "https://stream.berosat.live:19360/emb-mission-stream/emb-mission-stream.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfODA3NDk2MzBf/embtv.jpg", "titles": "EMB MISSION TV" },
 
- {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
+ {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "240","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
  
   {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
 
@@ -220,7 +224,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
             "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
           ],
           "subtitles": "All Channel",
-          "number": "200",
+          "number": "250",
           "thumbs": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
           "titles": "ONE TV"
         },
