@@ -154,12 +154,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "799",
           "thumbs": "https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png",
           "titles": "RTNC 1"
-        }
-      ] 
-    }
-  ] 
-} 
-
+        },
         { "descriptions": "Balade Monde Télévision est la première chaine de découverte en République du Congo.", "source": [ "https://stream.berosat.live:19360/balade-monde/balade-monde.m3u8" ], "subtitles": "All Channels","number": "58", "thumbs": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg", "titles": "BALADE MONDE TV" },
          {
           "descriptions": "Kin Direct TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
@@ -174,7 +169,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
         {
           "descriptions": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
           "source": [
-            " https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
+            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
           ],
           "subtitles": "All Channel",
           "number": "104",
@@ -193,7 +188,11 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/NzNfODIzNTUxNDhf/bossbrother.png",
           "titles": "BOSS BROTHER"
         },      
-        {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","number": "55","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"},
+        {"descriptions":"Antenne A télévision est une chaîne thématique émettant en République Démocratique du Congo","source":["http://51.254.199.122:8080/antenne_a-plus/index.m3u8"],"subtitles":"All Channel","number": "55","thumbs":"https://od.lk/s/NDZfNzg1NDI5NDlf/logoantenew.png","titles":"ANTENNE A"}
+      ] 
+    }
+  ] 
+} 
         
    { "descriptions": "Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com", "source": [ "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8" ], "subtitles": "All Channels","number": "200", "thumbs": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg", "titles": "GOSPEL CHANNEL" }, 
    
