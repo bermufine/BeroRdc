@@ -201,11 +201,8 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
 
  {"descriptions":"Destiny Channel TV est une chaîne Généraliste emettant depuis la côte d'ivoire qui diffuse des films d'action, gospel, Sports, des informations, musiques, magazine et autres, Destiny Channel TV rassure votre divertissement","source":["https://stream.berosat.live:19360/destiny-channel/destiny-channel.m3u8"],"subtitles":"All Channel","number": "240","thumbs":"https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg","titles":"DESTINY CHANNEL"},
  
-  {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"}
-       ] 
-    }
-  ] 
-}
+  {"descriptions":"LIGHT ECO TV est la chaine numerique qui diffusant des informations musique et Sports et autres","source":["https://srv.webtvmanager.fr:3483/hybrid/play.m3u8"],"subtitles":"All Channel","number": "200","thumbs":"https://od.lk/s/NDZfODA2NjkzNDdf/lighteco.jpg","titles":"LIGHT ECO TV"},
+  
 
    {
           "descriptions": "CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres",
@@ -257,7 +254,12 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "793",
           "thumbs": "https://od.lk/s/NDZfOTAzMTM1OTJf/kipushi24.jpg",
           "titles": "KIPUSHI 24 TV"
-        },
+        }
+      ] 
+    }
+  ] 
+}
+
         {
          "descriptions": "ERD télévision Une chaîne d’édification et restauration d'équipe âmes. émettant en République Démocratique du Congo.",
           "source": [
