@@ -10,7 +10,7 @@
             "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
           ],
           "subtitles": "All Channels",
-          "number": "417",
+          "number": "511",
           "thumbs": "https://od.lk/s/NDZfOTA3MjU4NTRf/frycomstv.jpg",
           "titles": "FRYCOMS TV"
         },
