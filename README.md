@@ -324,12 +324,7 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "586",
           "thumbs": "https://od.lk/s/NDZfOTA3MjU0ODJf/fjstv.jpg",
           "titles": "FJS HD TV"
-        }
-      ] 
-    }
-  ] 
-}
-
+        },
         {
          "descriptions": "Vitesse TV est une chaine divertissements émettent à Kinshasa en République démocratique du Congo.",
           "source": [
@@ -389,7 +384,12 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "number": "88",
           "thumbs": "https://od.lk/s/NDZfODEzNTU0NDJf/destinytv.jpg",
           "titles": "DESTINY CHANNEL"
-        },
+        }
+      ] 
+    }
+  ] 
+}
+
         {
          "descriptions": "FREDERICK MUYESU GOSPEL RADIO TELEVISION, NOUS SOMMES LA TELEVISION ET RADIO CHRETIENNE POUR LES EVANGELISATION DE LA PAROLE DE DIEU. LA BIBLE NOUS DIT. TOUT POUVOIR M'A ETE DONNE DANS LE CIEL ET SUR LA TERRE LA TERRE. ALLEZ, FAITES DE TOUTES LES NATIONS DES DISCIPLES ,LES BAPTISANT AU NOM DU PÈRE DU FILS ET DU SAINT ESPRIT ET ENSEIGNEZ-LEUR A OBSERVER TOUT CE QUE JE VOUS AI PRESCRIT. ET VOICI JE SUIS AVEC VOUS TOUS LES JOUR,JUSQU'A LA FIN DU MONDE. FM.GRTV; Tout pouvoir m'a été donné dans le ciel et sur la terre. Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint Esprit, et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu'à la fin du monde",
           "source": [
