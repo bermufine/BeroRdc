@@ -525,7 +525,27 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAzXw/rtsir.jpg",
           "titles": "RTSIR"
         },
-         {
+        {
+         "descriptions": "Heros télévision est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "source": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_84b6bd00a30011eeabad0fe2d8964889/index.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "506",
+          "thumbs": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "titles": "HEROS TV"
+        },
+        {
+         "descriptions": "Heros télévision 2 est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés.",
+          "source": [
+            "https://stream-195689.castr.net/63dea568fbc24884706157bb/live_c83208c05dda11eeaecf77f984d6072c/rewind-3600.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "507",
+          "thumbs": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "titles": "HEROS TV 2"
+        },
+        {
           "descriptions": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "source": [
             "https://stream.berosat.live:19360/frycoms-tv/frycoms-tv.m3u8"
