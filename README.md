@@ -545,6 +545,16 @@ Nous sommes Congo Unis Télévision, un espace où la technique rencontre la po�
           "thumbs": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
           "titles": "HEROS TV 2"
         },
+       {
+         "descriptions": "Ocean télévision est une chaîne généraliste qui vous fait découvrir le monde à travers les actualités politiques, religion, société, et divertissement ,nous emettons à Kinshasa en République démocratique du Congo",
+          "source": [
+            "https://stream.berosat.live:19360/ocean-tv/ocean-tv.m3u8"
+          ],
+          "subtitles": "All Channel",
+          "number": "511",
+          "thumbs": "https://od.lk/s/NDZfOTA4MjczOTJf/heros.jpg",
+          "titles": "OCEAN TV"
+        },
         {
           "descriptions": "FryComs TV est une Television d’information générale qui émet à partir de Kalemie, Province du Tanganyika, en République démocratique du Congo. FryComs TV, la télé du contenu.",
           "source": [
